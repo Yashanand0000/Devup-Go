@@ -9,4 +9,4 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 This website is devlop by Yash Anand
-preview.png
+[preview img] (/preview.png)
